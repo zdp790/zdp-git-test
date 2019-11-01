@@ -7,3 +7,4 @@ foreach ($products as $key=>$val) {
 	}
 }
 echo "the end ooooo"
+echo "push push "
