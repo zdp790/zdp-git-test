@@ -6,4 +6,4 @@ foreach ($products as $key=>$val) {
 		echo "$key:$val";
 	}
 }
-echo "the end"
+echo "the end ooooo"
