@@ -5,3 +5,4 @@ foreach ($products as $key=>$val) {
 		echo "name is " $val[$i];
 	}
 }
+echo "the end"
